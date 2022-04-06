@@ -5,6 +5,7 @@ This is a repo where you will find the Python code for automating e-mail sending
 This code uses smtplib and pandas libraries of python which you can install by using the following commands.
 
 pandas : pip install pandas
+
 smtplib : pip install python-smtplib
 
 Instead of smtplib you can also use secure smtplib which can be installed by the command : pip install secure-smtplib
